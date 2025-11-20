@@ -1,0 +1,15 @@
+aiohttp
+pillow
+psutil
+rich
+numpy
+pandas
+matplotlib
+giotto-tda
+ripser
+scikit-tda
+gudhi
+kmapper
+persim
+requests
+

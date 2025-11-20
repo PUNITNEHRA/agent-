@@ -1,0 +1,59 @@
+0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19
+,,"AUC as on Jan 15, 2012","AUC as on Jan 15, 2012","AUC as on Jan 15, 2012","AUC as on Jan 15, 2012","AUC as on Jan 15, 2012","AUC as on Jan 15, 2012","Net Investment  Jan 16-31, 2012","Net Investment  Jan 16-31, 2012","Net Investment  Jan 16-31, 2012","Net Investment  Jan 16-31, 2012","Net Investment  Jan 16-31, 2012","Net Investment  Jan 16-31, 2012","AUC as on Jan 31, 2012","AUC as on Jan 31, 2012","AUC as on Jan 31, 2012","AUC as on Jan 31, 2012","AUC as on Jan 31, 2012","AUC as on Jan 31, 2012"
+,,IN  INR Cr.,IN  INR Cr.,IN  INR Cr.,IN USD Mn,IN USD Mn,IN USD Mn,IN INR Cr.,IN INR Cr.,IN INR Cr.,IN USD Mn,IN USD Mn,IN USD Mn,IN INR Cr.,IN INR Cr.,IN INR Cr.,IN USD Mn,IN USD Mn,IN USD Mn
+Sr. No.,Sectors,Equity,Debt,Total,Equity,Debt,Total,Equity,Debt,Total,Equity,Debt,Total,Equity,Debt,Total,Equity,Debt,Total
+1,Automobiles  & Auto Components,41909,0,41909,8149,0,8149,116,0,116,23,0,23,44650,0,44650,8997,0,8997
+2,Banks,130265,17,130281,25328,3,25331,2167,0,2167,437,0,437,145870,17,145887,29392,3,29396
+3,Capital Goods,52182,375,52557,10146,73,10219,2026,0,2026,408,0,408,58966,375,59341,11881,76,11957
+4,Chemicals & Petrochemicals,7458,75,7533,1450,15,1465,11,0,11,2,0,2,7729,75,7804,1557,15,1572
+5,Coal,12633,0,12633,2456,0,2456,224,0,224,45,0,45,12246,0,12246,2468,0,2468
+6,Commercial Services & Supplies,7587,0,7587,1475,0,1475,-14,0,-14,-3,0,-3,9220,0,9220,1858,0,1858
+7,Construction Materials,16264,60,16324,3162,12,3174,292,0,292,59,0,59,17490,60,17550,3524,12,3536
+8,Consumer Durables,6342,0,6342,1233,0,1233,-47,0,-47,-9,0,-9,6688,0,6688,1348,0,1348
+9,Diversified,2283,0,2283,444,0,444,7,0,7,1,0,1,2287,0,2287,461,0,461
+10,Diversified Consumer Services,757,0,757,147,0,147,-82,0,-82,-17,0,-17,711,0,711,143,0,143
+11,"Food, Beverages & Tobacco",44037,57,44094,8562,11,8573,85,0,85,17,0,17,44666,57,44723,9000,12,9012
+12,Forest Materials,369,0,369,72,0,72,1,0,1,0,0,0,390,0,390,79,0,79
+13,General Industrials,6128,0,6128,1191,0,1191,-168,0,-168,-34,0,-34,6142,0,6142,1238,0,1238
+14,Hardware Technology & Equipment,370,0,370,72,0,72,-6,0,-6,-1,0,-1,360,0,360,73,0,73
+15,Healthcare Equipment & Supplies,1533,0,1533,298,0,298,2,0,2,0,0,0,1692,0,1692,341,0,341
+16,Healthcare Services,2802,0,2802,545,0,545,-4,0,-4,-1,0,-1,2700,0,2700,544,0,544
+17,"Hotels, Restaurants & Tourism",3390,100,3490,659,19,679,15,0,15,3,0,3,3722,100,3822,750,20,770
+18,Household & Personal Products,28047,0,28047,5453,0,5453,-130,0,-130,-26,0,-26,27921,0,27921,5626,0,5626
+19,Media,8885,58,8943,1728,11,1739,9,0,9,2,0,2,9081,58,9139,1830,12,1841
+20,Metals & Mining,38699,751,39450,7524,146,7670,949,0,949,191,0,191,43388,751,44139,8743,151,8894
+21,Oil & Gas,60470,12514,72984,11757,2433,14191,545,-558,-12,110,-112,-2,66973,11474,78447,13495,2312,15807
+22,Other Financial Services,100900,28962,129862,19619,5631,25250,677,1597,2274,136,322,458,107187,30302,137490,21598,6106,27704
+23,Others*,9416,38521,47937,1831,7490,9321,-27,1239,1212,-5,250,244,9558,39146,48704,1926,7888,9814
+24,Pharmaceuticals & Biotechnology,41488,119,41607,8067,23,8090,194,0,194,39,0,39,43213,119,43332,8707,24,8731
+25,Realty,13356,110,13466,2597,21,2618,242,0,242,49,0,49,14897,110,15007,3002,22,3024
+26,Retailing,2041,0,2041,397,0,397,-8,0,-8,-2,0,-2,2219,0,2219,447,0,447
+27,Software & Services,106367,0,106367,20681,0,20681,756,0,756,152,0,152,112883,0,112883,22746,0,22746
+28,Telecom Services,28442,1400,29842,5530,272,5802,63,0,63,13,0,13,31180,1400,32580,6283,282,6565
+29,Telecommunications Equipment,150,0,150,29,0,29,1,0,1,0,0,0,150,0,150,30,0,30
+30,"Textiles, Apparels & Accessories",12204,0,12204,2373,0,2373,-31,0,-31,-6,0,-6,12932,0,12932,2606,0,2606
+31,Transportation,9345,0,9345,1817,0,1817,16,0,16,3,0,3,10393,0,10393,2094,0,2094
+32,Utilities,34550,379,34929,6718,74,6792,14,0,14,3,0,3,36148,394,36542,7284,79,7363
+33,Sovereign,0,60002,60002,0,11667,11667,0,733,733,0,148,148,0,65513,65513,0,13201,13201
+,Grand  Total,830665,143499,974164,161511,27901,189412,7893,3011,10905,1590,607,2197,893653,149952,1043604,180068,30215,210283
+*AUC of Top 10 companies under Others Category in  Debt is as below,*AUC of Top 10 companies under Others Category in  Debt is as below,*AUC of Top 10 companies under Others Category in  Debt is as below,*AUC of Top 10 companies under Others Category in  Debt is as below,*AUC of Top 10 companies under Others Category in  Debt is as below,*AUC of Top 10 companies under Others Category in  Debt is as below,,,,,,,,,,,,,,
+Sr.  No.,Companies,"As on Jan 15, 2012","As on Jan 15, 2012","As on Jan 31, 2012","As on Jan 31, 2012",,,,,,,,,,,,,,
+,,INR Cr.,USD Mn,INR Cr.,USD Mn,,,,,,,,,,,,,,
+1,NABARD,8921,1735,8911,1794,,,,,,,,,,,,,,
+2,Exim Bank,8470,1647,8375,1686,,,,,,,,,,,,,,
+3,National Housing Bank,3855,749,4205,846,,,,,,,,,,,,,,
+4,SIDBI,2510,488,2615,526,,,,,,,,,,,,,,
+5,SISTEMA SHYAM TELESER,1280,249,1280,258,,,,,,,,,,,,,,
+6,J.P.MORGAN SEC CP,695,135,895,180,,,,,,,,,,,,,,
+7,IRFC,830,161,855,172,,,,,,,,,,,,,,
+8,BARCLAYS INVESTMENTS AND LOANS INDIA LTD CP,795,155,795,160,,,,,,,,,,,,,,
+9,ICICI PRUDENTIAL,613,119,631,127,,,,,,,,,,,,,,
+10,AIRPORTS AUTHR.INDIA,600,117,600,121,,,,,,,,,,,,,,
+,Total,28568,5555,29162,5870,,,,,,,,,,,,,,
+,*Note: RBI  reference rate is used for conversion from INR to USD,*Note: RBI  reference rate is used for conversion from INR to USD,*Note: RBI  reference rate is used for conversion from INR to USD,,,,,,,,,,,,,,,,
+,,Conversion  rate,Conversion  rate,,,,,,,,,,,,,,,,
+,"AUC as on  Jan 15, 2012",51.431,51.431,,,,,,,,,,,,,,,,
+,"Net  Investment Jan 16-31, 2012",49.6825,49.6825,,,,,,,,,,,,,,,,
+,"AUC as on  Jan 31, 2012",49.6825,49.6825,,,,,,,,,,,,,,,,
+,INR to USD  conversion of FII net Investment details on SEBI website is done on the basis  of daily RBI reference rate. However here RBI reference rate of end of period  is used for conversion from INR to USD.,INR to USD  conversion of FII net Investment details on SEBI website is done on the basis  of daily RBI reference rate. However here RBI reference rate of end of period  is used for conversion from INR to USD.,INR to USD  conversion of FII net Investment details on SEBI website is done on the basis  of daily RBI reference rate. However here RBI reference rate of end of period  is used for conversion from INR to USD.,,,,,,,,,,,,,,,,
+"Sector-wise FII investment details is based on BSE  sector classification. BSE had classified more than 3400 number of issuers  into 31 sectors. SEBI has decided to rely on the BSE classification. Any FII  investment outside those 3400 issueres, is classified under  ""Others"".","Sector-wise FII investment details is based on BSE  sector classification. BSE had classified more than 3400 number of issuers  into 31 sectors. SEBI has decided to rely on the BSE classification. Any FII  investment outside those 3400 issueres, is classified under  ""Others"".","Sector-wise FII investment details is based on BSE  sector classification. BSE had classified more than 3400 number of issuers  into 31 sectors. SEBI has decided to rely on the BSE classification. Any FII  investment outside those 3400 issueres, is classified under  ""Others"".","Sector-wise FII investment details is based on BSE  sector classification. BSE had classified more than 3400 number of issuers  into 31 sectors. SEBI has decided to rely on the BSE classification. Any FII  investment outside those 3400 issueres, is classified under  ""Others"".","Sector-wise FII investment details is based on BSE  sector classification. BSE had classified more than 3400 number of issuers  into 31 sectors. SEBI has decided to rely on the BSE classification. Any FII  investment outside those 3400 issueres, is classified under  ""Others"".","Sector-wise FII investment details is based on BSE  sector classification. BSE had classified more than 3400 number of issuers  into 31 sectors. SEBI has decided to rely on the BSE classification. Any FII  investment outside those 3400 issueres, is classified under  ""Others"".","Sector-wise FII investment details is based on BSE  sector classification. BSE had classified more than 3400 number of issuers  into 31 sectors. SEBI has decided to rely on the BSE classification. Any FII  investment outside those 3400 issueres, is classified under  ""Others"".","Sector-wise FII investment details is based on BSE  sector classification. BSE had classified more than 3400 number of issuers  into 31 sectors. SEBI has decided to rely on the BSE classification. Any FII  investment outside those 3400 issueres, is classified under  ""Others"".","Sector-wise FII investment details is based on BSE  sector classification. BSE had classified more than 3400 number of issuers  into 31 sectors. SEBI has decided to rely on the BSE classification. Any FII  investment outside those 3400 issueres, is classified under  ""Others"".",,,,,,,,,,,
